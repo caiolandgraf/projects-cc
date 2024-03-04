@@ -16,4 +16,5 @@
 ---
 
 > @Copyright [Caio Landgraf](https://github.com/caiolandgraf) - Todos Os Direitos Reservados!
+> 
 > @Copyright [EiCode!](https://eicode.app.br) - Todos Os Direitos Reservados!
