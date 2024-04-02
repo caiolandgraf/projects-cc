@@ -1,9 +1,5 @@
 .bg-gradient-dp {
-background: rgb(149,80,241);
-background: -moz-linear-gradient(180deg, rgba(149,80,241,1) 0%, rgba(176,66,255,1) 35%, rgba(119,4,237,1) 100%);
-background: -webkit-linear-gradient(180deg, rgba(149,80,241,1) 0%, rgba(176,66,255,1) 35%, rgba(119,4,237,1) 100%);
 background: linear-gradient(180deg, rgba(149,80,241,1) 0%, rgba(176,66,255,1) 35%, rgba(119,4,237,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#9550f1",endColorstr="#7704ed",GradientType=1);
 }
 
 h1, h2 {
