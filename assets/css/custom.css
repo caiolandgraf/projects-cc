@@ -20,3 +20,16 @@ a {
   color: #22d3ee;
   text-decoration: none;
 }
+
+.paragraphCustom {
+  font-size: 16pt;
+  font-family: "Arial", sans-serif;
+  color: red;
+}
+
+.paragraphCustom:nth-child(2n) {
+  font-size: 20pt;
+  font-family: "Verdana", sans-serif;
+  color: cyan;
+}
+
